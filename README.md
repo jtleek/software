@@ -2,6 +2,8 @@
 
 All software on [Github](http://github.com/jtleek)
 
+* [ipd](https://github.com/ipd-tools/ipd) - An R package for "inference with predicted data", development lead by Steve Salerno and Awan Afiaz, among many others!  
+* [scorcher](https://github.com/jtleek/scorcher) - An R package for simple, pipeable fitting of neural network models, created by Steve Salerno
 * [ari](https://github.com/seankross/ari) - An R package for synthesizing voices from text files and R markdown files created by Sean Kross. 
 * [matahari](https://github.com/jhudsl/matahari) - An R package for collecting data on the way people analyze data created by Sean Kross. 
 * [papr](http://jhubiostatistics.shinyapps.io/papr) - A tindr like web-app for rating preprints from bioRxiv. Written by Lucy D'Agostino McGowan, Nicholas Strayer, and Jeff Leek.
